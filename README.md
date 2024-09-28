@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Q-Nhabinde
-- 👀 I’m interested in Software developmente with focus in Frontend development
+- 👀 I’m interested in Software developmente, Data Analysis and Machine Learning
 - 🌱 I’m currently learning Javascript frameworks  such as, VueJs and ReactJs
 - 💞️ I’m looking to collaborate on any project...
 - ✨ My hobbies are Baking and watching series/movies
